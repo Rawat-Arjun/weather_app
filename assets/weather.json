@@ -1,0 +1,124 @@
+{
+    "cities": [
+        {
+            "name": "Delhi",
+            "aqi": "401",
+            "temperature": 11,
+            "wind_speed": 5,
+            "humidity": 70,
+            "visibility": 0.3,
+            "sun": {
+                "sunrise": "7:13 AM",
+                "sunset": "5:54 PM"
+            }
+        },
+        {
+            "name": "Bengaluru",
+            "aqi": "76",
+            "temperature": 24,
+            "wind_speed": 10,
+            "humidity": 62,
+            "visibility": 4,
+            "sun": {
+                "sunrise": "6:46 AM",
+                "sunset": "6:17 PM"
+            }
+        },
+        {
+            "name": "Hyderabad",
+            "aqi": "197",
+            "temperature": 23,
+            "wind_speed": 11,
+            "humidity": 65,
+            "visibility": 3,
+            "sun": {
+                "sunrise": "6:49 AM",
+                "sunset": "6:07 PM"
+            }
+        },
+        {
+            "name": "Vishakhapatnam",
+            "aqi": "76",
+            "temperature": 24,
+            "wind_speed": 8,
+            "humidity": 85,
+            "visibility": 8,
+            "sun": {
+                "sunrise": "6:30 AM",
+                "sunset": "6:47 PM"
+            }
+        },
+        {
+            "name": "Lucknow",
+            "aqi": "320",
+            "temperature": 9,
+            "wind_speed": 5,
+            "humidity": 90,
+            "visibility": 0.1,
+            "sun": {
+                "sunrise": "6:55 AM",
+                "sunset": "6:42 PM"
+            }
+        },
+        {
+            "name": "Indore",
+            "aqi": "301",
+            "temperature": 11,
+            "wind_speed": 5,
+            "humidity": 90,
+            "visibility": 8,
+            "sun": {
+                "sunrise": "6:39 AM",
+                "sunset": "5:30 PM"
+            }
+        },
+        {
+            "name": "Ahmedabad",
+            "aqi": "115",
+            "temperature": 19,
+            "wind_speed": 10,
+            "humidity": 43,
+            "visibility": 3,
+            "sun": {
+                "sunrise": "7:21 AM",
+                "sunset": "6:22 PM"
+            }
+        },
+        {
+            "name": "Kolkata",
+            "aqi": "341",
+            "temperature": 17,
+            "wind_speed": 10,
+            "humidity": 84,
+            "visibility": 0.5,
+            "sun": {
+                "sunrise": "6:17 AM",
+                "sunset": "5:19 PM"
+            }
+        },
+        {
+            "name": "Pune",
+            "aqi": "75",
+            "temperature": 23,
+            "wind_speed": 13,
+            "humidity": 32,
+            "visibility": 3,
+            "sun": {
+                "sunrise": "7:09 AM",
+                "sunset": "6:24 PM"
+            }
+        },
+        {
+            "name": "Bhopal",
+            "aqi": "80",
+            "temperature": 18,
+            "wind_speed": 6,
+            "humidity": 37,
+            "visibility": 16,
+            "sun": {
+                "sunrise": "7:03 AM",
+                "sunset": "6:02 PM"
+            }
+        }
+    ]
+}
